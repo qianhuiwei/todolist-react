@@ -1,0 +1,34 @@
+.todo-item {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #EFEFEF;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    margin-right: 8px;
+}
+
+.title {
+    flex: 1;
+}
+
+.btn-delete {
+    font-size: 20px;
+    color:#333333;
+    background-color:white;
+    border: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.btn-delete:hover {
+    color: #61dafb;
+}
+
+
