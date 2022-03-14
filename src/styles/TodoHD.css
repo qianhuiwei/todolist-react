@@ -7,6 +7,12 @@
     padding: 4px;
 }
 
+h1 {
+    font-size: 48px;
+    color: #333333;
+    letter-spacing: 8.75px;
+}
+
 .input-field {
     flex: 1;
     font-size: 16px;
